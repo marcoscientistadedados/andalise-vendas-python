@@ -1,0 +1,1 @@
+# andalise-vendas-python
